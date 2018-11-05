@@ -5,5 +5,5 @@ def change
     t.string :name
     t.integer :show_id
   end
-
+end
 end
