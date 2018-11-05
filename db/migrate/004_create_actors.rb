@@ -6,3 +6,4 @@ def change
     t.string :last_name
   end
 end
+end
